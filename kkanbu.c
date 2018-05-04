@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("씨발\n");
+	printf("깐부\n");
 	return 0;
 }
 
